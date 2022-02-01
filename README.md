@@ -1,7 +1,5 @@
 # EMERSON
 
-
-
 ## FULL STACK DEVELOPER (Node.JS & React) <br>
 
 CTO and Co-Founder at Neofeel Consulting
