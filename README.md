@@ -22,7 +22,7 @@ Development of web and mobile applications with React and Node.JS.
 
 ## 👩🏼‍🎓 Education
 
-**Web and mobile application development project manager** @ [La Capsule](https://www.lacapsule.academy/) _(2021)_ Paris<br>
+**Web and mobile application development project manager** @ [LA CAPSULE](https://www.lacapsule.academy/) _(2021)_ Paris<br>
 Paris
 La Capsule is a Coding Bootcamp that educates tech minds capable of creating web and mobile applications.
 
@@ -32,7 +32,7 @@ Learning in "Project-Based-Learning" mode.
 - **_Technologies used:_** React, React Native, Javascript, TypeScript, HTML, CSS, Web Components, Express, MongoDB.
   <br><br>
 
-**Full-stack web developer** @ [3W Academy](https://3wa.fr/) _(2020)_ Paris<br>
+**Full-stack web developer** @ [3W ACADEMY](https://3wa.fr/) _(2020)_ Paris<br>
 Paris
 3W Academy is a Coding Bootcamp with an active pedagogy comprising 90% practice and 10% theory
 
