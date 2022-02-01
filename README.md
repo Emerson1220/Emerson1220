@@ -36,9 +36,6 @@ Learning in "Project-Based-Learning" mode.
 Paris
 3W Academy is a Coding Bootcamp with an active pedagogy comprising 90% practice and 10% theory
 
-Learning in "Project-Based-Learning" mode.
-10 projects carried out therefore 2 mobile applications.
-
 - **_Technologies used:_** Javascript, PHP, TypeScript, HTML, CSS, Web Components, Dockers, Symfony, Wordpress, SQL.
   <br><br>
 
