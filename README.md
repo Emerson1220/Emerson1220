@@ -60,6 +60,8 @@ La Capsule is a Coding Bootcamp that educates tech minds capable of creating web
 
 **Communication manager** @ [SUP DE PUB](https://www.supdepub.com/) _(2015 - 2018)_ Paris<br>
 
+The great school of communication, digital and marketing of the INSEEC Group.
+
 **Master degree**<br>
 
 - Management of an e-commerce project
