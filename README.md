@@ -72,7 +72,7 @@ La Capsule is a Coding Bootcamp that educates tech minds capable of creating web
 ## 💬 Languages
 
 **French**: Native <br>
-**English**: Elementary <br>
+**English**: Intermediate <br>
 **German**: Notion
 <br><br>
 
