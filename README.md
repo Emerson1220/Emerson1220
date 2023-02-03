@@ -15,11 +15,6 @@ Development of web and mobile applications.
 **_Technologies used:_** Angular, Java, Spring Boot, NodeJS, Typescript, REST, MongoDB, SQL, NoSQL, CI/CD, Devops.
   <br><br>
 
-- Implementing features that improve the UI and accessibility of the integrations platform
-- Extending a company-wide design system
-- **_Technologies used:_** React, Javascript, TypeScript, Redux, Jest, Next, Nest, Testing Library, HTML, CSS, Sass, Web Components, Express, Gatsby, GraphQL, REST, MongoDB, SQL.
-  <br><br>
-
 **CTO & Co-founder** @ [NEOFEEL CONSULTING](https://neofeelconsulting.fr/) _(Nov 2020 - Present)_ <br>
 Development of web and mobile applications with React and Node.JS.
 
