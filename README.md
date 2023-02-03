@@ -11,7 +11,7 @@ based in Paris, France\_ <br>
 ## 👩🏼‍💻 Technical Experience
 
 **Developer Full Stack** @ [ACT-ON TECHNOLOGY](https://actontechnology.com/) _(Jan 2022 - Present)_ <br>
-Development of web and mobile applications.
+Development of web and mobile applications.<br>
 **_Technologies used:_** Angular, Java, Spring Boot, NodeJS, Typescript, REST, MongoDB, SQL, NoSQL, CI/CD, Devops.
   <br><br>
 
