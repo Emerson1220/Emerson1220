@@ -1,6 +1,6 @@
 # EMERSON
 
-### FULL STACK DEVELOPER (Node/Java & React//Next/Angular) <br>
+### FULL STACK DEVELOPER (Node/Java & React/Next/Angular) <br>
 
 CTO and Co-Founder at Neofeel Consulting
 
